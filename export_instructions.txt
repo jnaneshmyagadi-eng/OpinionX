@@ -1,0 +1,17 @@
+OpinionX MVP Day 6 Complete
+
+The project is fully built and ready.
+
+APK Location:
+/app/applet/app/build/outputs/apk/debug/app-debug.apk
+
+To get the APK:
+1. Open the File Explorer in AI Studio.
+2. Navigate to: app -> build -> outputs -> apk -> debug
+3. Right-click 'app-debug.apk' and select "Download".
+
+To push to GitHub (since CLI auth failed):
+1. Use the AI Studio UI top menu or sidebar.
+2. Select "Push to GitHub" or "Export to GitHub".
+3. Authorize with your GitHub account.
+4. Select your repository: jnaneshmyagadi-eng/Opinionx.
